@@ -245,7 +245,7 @@ GameObject:
   - component: {fileID: 437837514}
   - component: {fileID: 437837513}
   m_Layer: 0
-  m_Name: Sphere
+  m_Name: Objeto3
   m_TagString: Objeto3
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -634,7 +634,7 @@ GameObject:
   - component: {fileID: 810289034}
   - component: {fileID: 810289033}
   m_Layer: 0
-  m_Name: Cube2
+  m_Name: Objeto2
   m_TagString: Objeto2
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -896,7 +896,7 @@ GameObject:
   - component: {fileID: 1789875284}
   - component: {fileID: 1789875283}
   m_Layer: 0
-  m_Name: Cube1
+  m_Name: Objeto1
   m_TagString: Objeto1
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -1001,7 +1001,7 @@ Transform:
   m_GameObject: {fileID: 1789875282}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 185.6, y: 4.1, z: 28.1}
+  m_LocalPosition: {x: 186.72, y: 4.1, z: 28.1}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []

@@ -56,13 +56,13 @@ public class RayCast : MonoBehaviour
             {
                 _changeScene = 1;
             }
-            if(hit.collider.CompareTag("Objeto2"))
+           if (hit.collider.gameObject.name == "Objeto2")
             {
                 _changeScene = 2;
             }
-            if(hit.collider.CompareTag("Objeto3"))
+            if (hit.collider.gameObject.name == "Objeto3")
             {
-                _changeScene = 2;
+                _changeScene = 3;
             }
             _timer = 5f;
             _isCounting = true;
